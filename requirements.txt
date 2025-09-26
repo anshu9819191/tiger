@@ -1,6 +1,7 @@
-mediapipe==0.10.14
-opencv-python==4.10.0.84
-numpy==1.26.4
-Flask==3.0.3
-Werkzeug==3.0.4
-gunicorn==23.0.0
+Flask==2.3.3
+Werkzeug==2.3.8
+numpy>=1.24.0
+opencv-python>=4.7.0
+Pillow>=10.0.0
+mediapipe>=0.10.12,<0.11
+requests>=2.31.0
